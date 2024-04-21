@@ -10,6 +10,10 @@ python manage.py startapp contact
 
 # Ativar serviço
  python manage.py runserver
+
+# Fazer o collect dos arquivos aula 456
+python manage.py collectstatic
+
 ```
 
 Configurar o git
