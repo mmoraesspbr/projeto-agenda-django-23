@@ -34,6 +34,10 @@ Criando e modificando a senha de um super usuário Django
 ```
 python manage.py createsuperuser
 python manage.py changepassword USERNAME
+User
+mmoraes_sp
+mmoraes_sp@hotmail.com
+B+s+1+&
 ```
 
 Trabalhando com o model do Django
