@@ -7,6 +7,9 @@ python -m venv venv
 pip install django
 django-admin startproject project .
 python manage.py startapp contact
+
+# Ativar serviço
+ python manage.py runserver
 ```
 
 Configurar o git
